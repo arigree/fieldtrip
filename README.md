@@ -43,10 +43,10 @@ This artwork is historically significant because it challenges traditional perce
   - [https://nativeartsandcultures.org](https://nativeartsandcultures.org)
 
 ### Color Palette
-- **Red (#8B2E2E)
-- **Tan/Sand (#D2B48C)
-- **Charcoal (#2E2E2E)
-- **White (#FFFFFF)
+- Red (#8B2E2E)
+- Tan/Sand (#D2B48C)
+- Charcoal (#2E2E2E)
+- White (#FFFFFF)
 
 ### Data Structure Rationale
 - Artworks are stored as objects in an array, each object containing:
